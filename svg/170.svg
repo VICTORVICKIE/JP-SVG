@@ -1,0 +1,31 @@
+
+<svg id="z12533" class="acjk" version="1.1" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<style>
+<![CDATA[
+@keyframes zk {
+	to {
+		stroke-dashoffset:0;
+	}
+}
+svg.acjk path[clip-path] {
+	--t:0.8s;
+	animation:zk var(--t) linear forwards var(--d);
+	stroke-dasharray:3337;
+	stroke-dashoffset:3339;
+	stroke-width:128;
+	stroke-linecap:round;
+	fill:none;
+	stroke:#000;
+}
+svg.acjk path[id] {fill:#ccc;}
+]]>
+</style>
+<path id="z12533d1" d="M509 475Q572 463 636 457Q656 456 660 465Q667 481 662 519Q647 661 617 735Q602 781 586 796Q576 806 553 799Q524 789 496 780Q476 774 490 792Q529 836 551 869Q559 888 577 882Q595 881 616 857Q678 797 706 558Q712 505 733 474Q748 454 740 445Q726 427 693 413Q671 400 645 411Q589 431 514 446C483 452 483 452 467 455Q335 470 285 469Q265 466 265 477Q264 487 284 501Q309 521 335 513Q398 496 461 484C493 478 493 478 509 475Z"></path>
+<path id="z12533d2" d="M461 484Q406 710 221 825Q206 835 191 847Q178 857 191 858Q204 859 238 845Q306 814 356 766Q414 716 452 641Q498 539 509 475C512 456 512 456 514 446Q539 321 551 299Q560 281 544 273Q498 239 472 247Q459 252 465 266Q489 317 467 455C463 474 463 474 461 484Z"></path>
+<defs>
+	<clipPath id="z12533c1"><use xlink:href="#z12533d1"></use></clipPath>
+	<clipPath id="z12533c2"><use xlink:href="#z12533d2"></use></clipPath>
+</defs>
+<path style="--d:1s;" pathLength="3333" clip-path="url(#z12533c1)" d="M 269,476 322,492 661,433 700,458 660,684 620,801 568,842 492,785"></path>
+<path style="--d:2s;" pathLength="3333" clip-path="url(#z12533c2)" d="M 468,253 515,301 484,488 444,605 343,752 189,853"></path>
+<g visibility="visible"><circle cx="288.1465542157343" cy="481.7800918387122" r="40" stroke="#000" fill="#fff" stroke-width="5"></circle><text x="288.1465542157343" y="501.7800918387122" text-anchor="middle" font-family="arial" font-weight="normal" fill="#000" font-size="60">1</text><circle cx="481.99249585216427" cy="267.29020852986986" r="40" stroke="#000" fill="#fff" stroke-width="5"></circle><text x="481.99249585216427" y="287.29020852986986" text-anchor="middle" font-family="arial" font-weight="normal" fill="#000" font-size="60">2</text></g></svg>
